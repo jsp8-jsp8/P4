@@ -1,0 +1,38 @@
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 110%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+    
+}
+body {
+    background-color: rgb(236, 68, 46);
+    background: url("##");
+    background-repeat: no-repeat;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #cccccc; 
+  }
+
+h2 {
+    color: rgb(247, 233, 46);
+    text-align: center; 
+}
+h3 {
+    color: rgb(250, 246, 43);
+    text-align: center;   
+}
+
+
+
+  
+
+
+

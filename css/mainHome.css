@@ -1,0 +1,43 @@
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 110%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+    
+}
+body {
+    background-color: rgb(236, 68, 46);
+    background: url(https://wallpapercave.com/wp/wp2437593.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #cccccc; 
+  }
+
+h2 {
+    color: white;
+    text-align: center; 
+}
+h3 {
+    color: white;
+    text-align: center;   
+}
+
+.card {
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    bottom: 10%;
+    box-shadow: 0 8px 12px 0 rgba(103, 240, 217, 0.2);
+    transition: 0.3s;
+    width: 12%;
+  }
+
+
+
